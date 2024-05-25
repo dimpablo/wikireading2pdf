@@ -17,6 +17,12 @@ Now everthing is ready! Run "go":
 After being executed, code above lefts two files in the same directory: RESULT.pdf and RESULT.fb2
 Please, fork my project in case of any ideas or if wikireading changed it's marking.
 
+  ## Permissions:
+
+<p align="center">In case permission is denied execute:</p>
+
+* cd wikireading2pdf
+* chmod 777 *
 
   ## Dependencies:
 
@@ -24,6 +30,8 @@ Please, fork my project in case of any ideas or if wikireading changed it's mark
 
 * cd wikireading2pdf
 * ./satisfy.sh
+
+
 
 <p align="center">For any issues, pm me on telegram @pigeondoves</p>
 <p align="center">Не стесняйтесь форкать!</p>
