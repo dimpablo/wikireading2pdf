@@ -1,5 +1,5 @@
 # wikireading2pdf
-Download any books from wikireading.ru; Качай любые книги с wikireading!
+Download any books from wikireading.ru; Скрипт который скачивает книги с wikireading и делает из них конфетку с кликабельным оглавлением! 
 
   ## Usage:
 
