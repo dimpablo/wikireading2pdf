@@ -3,7 +3,7 @@ Download any books from wikireading.ru; Качай любые книги с wiki
 
   ## Usage:
 
-* https://github.com/dimpablo/wikireading2pdf
+* git clone https://github.com/dimpablo/wikireading2pdf
 * cd wikireading2pdf
 
 Then check if depenencies are satisfied. For that execute
