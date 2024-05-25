@@ -6,7 +6,7 @@ Download any books from wikireading.ru; Качай любые книги с wiki
 * git clone https://github.com/dimpablo/wikireading2pdf
 * cd wikireading2pdf
 
-Then check if depenencies are satisfied. For that execute
+Then check if depenencies are satisfied (It's important!). For that execute
 * ./satisfy.sh
 
 Now everthing is ready! Run "go":
@@ -23,14 +23,6 @@ Please, fork my project in case of any ideas or if wikireading changed it's mark
 
 * cd wikireading2pdf
 * chmod 777 *
-
-  ## Dependencies:
-
-<p align="center">Some packages might not be on your system. In that case, execute yet again:</p>
-
-* cd wikireading2pdf
-* ./satisfy.sh
-
 
 
 <p align="center">For any issues, pm me on telegram @pigeondoves</p>
